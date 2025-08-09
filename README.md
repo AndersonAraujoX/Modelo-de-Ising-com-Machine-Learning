@@ -2,6 +2,8 @@
 
 Este projeto implementa uma simulação do Modelo de Ising e aplica técnicas de Machine Learning, inspirado por estudos que exploram o uso de aprendizado de máquina para identificar fases da matéria. O Modelo de Ising, um modelo fundamental em física estatística para o estudo do ferromagnetismo, é simulado e analisado.
 
+Artigo reproduzido https://www.nature.com/articles/nphys4035.pdf
+
 ## Implementação do Modelo de Ising
 
 A simulação do Modelo de Ising é realizada utilizando o algoritmo de Metropolis, otimizado para eficiência computacional.
